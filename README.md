@@ -9,7 +9,7 @@ App Build with Spring Framework as Back-End and thymeleaf as Front-End.
 ```sh
 1.1 The Goal
 
-Maharishi University of Management has asked you to design and develop a Student Registration System (MUMSched)    for their    Computer Science department.
+Maharishi University of Management has asked you to design and develop a Student Registration System (MUMSched) for their Computer Science department.
 The system will enable students to register online for courses each semester, as well as track their progress toward completion of their degree.
 
 When a student first enrolls at the university, he/she uses the MUMSched to create a plan of study that lists the courses he/she plans on taking to satisfy a particular degree program, 
